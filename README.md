@@ -1,3 +1,3 @@
 # elements_counter
 
-Counting skittles on the image using adaptive threashold, closing and erode operation.
+Counting skittles on the image using adaptive threshold, closing and erode operation.
